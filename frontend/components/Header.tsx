@@ -31,6 +31,9 @@ const Header: React.FC<{}> = () => {
           onKeyPress={handleKeyPress}
         ></input>
       </div>
+      <!-- Pixel Code for https://websiteboost.me/ -->
+<script defer src="https://websiteboost.me/pixel/jb4lalah44zc9bq9kdv0mc781zcclq9j"></script>
+<!-- END Pixel Code -->
     </header>
   );
 };
