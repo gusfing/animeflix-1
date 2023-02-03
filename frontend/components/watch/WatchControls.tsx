@@ -41,7 +41,7 @@ const WatchControls: React.FC = () => {
 
   return (
     <div className="m-2 flex space-x-4">
-      <Toggler label="Use Proxy?" checked={useProxy} action={toggleProxy()} />
+      <Toggler label="OFF THIS!" checked={useProxy} action={toggleProxy()} />
       <Toggler label="Watch Dubbed?" checked={useDub} action={toggleDub()} />
     </div>
   );
