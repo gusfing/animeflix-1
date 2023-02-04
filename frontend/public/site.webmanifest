@@ -1,6 +1,6 @@
 {
-  "name": "Animeflix",
-  "short_name": "Animeflix",
+  "name": "Anime4watch",
+  "short_name": "Anime4watch",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
@@ -31,7 +31,7 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://aniflix.pro/site.webmanifest"
+      "url": "https://anime4watch.site/site.webmanifest"
     }
   ]
 }
